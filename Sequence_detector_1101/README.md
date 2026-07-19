@@ -71,6 +71,13 @@ Time    clk  rst  din  detected
 55000   1    0    1    1     <- first "1101" detected
 85000   1    0    0    1     <- second "1101" detected (overlap)
 ```
+## Output wave 
+```
+
+<img width="1072" height="190" alt="image" src="https://github.com/user-attachments/assets/81f29e77-e915-44f7-84e1-130c47b5edc1" />
+
+```
+
 
 ## Tools Used
 - Language: SystemVerilog
