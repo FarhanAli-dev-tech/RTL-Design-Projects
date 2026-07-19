@@ -9,7 +9,7 @@ found during verification documented honestly rather than hidden.
 ## Tools Used
 - **Language:** SystemVerilog
 - **Simulator:** Icarus Verilog
-- **Waveform Viewer:** GTKWave
+- **Waveform Viewer:** EPWave
 
 ## Projects
 
@@ -53,10 +53,8 @@ iverilog -g2012 -o sim <project>/rtl/<file>.sv <project>/tb/<file>.sv
 vvp sim
 ```
 To view waveforms, add a `$dumpfile` / `$dumpvars` block to the
-testbench and open the generated `.vcd` file in GTKWave:
+testbench and open the generated `.vcd` file in EPWave:
 ```bash
-gtkwave dump.vcd
+EPwave dump.vcd
 ```
 
-## Author
-Farhan — Computer Engineering Graduate, SSUET
