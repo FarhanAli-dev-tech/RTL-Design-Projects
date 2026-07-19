@@ -66,4 +66,4 @@ Time    clk  rst  red  yellow  green
 ## Tools Used
 - Language: SystemVerilog
 - Simulator: Icarus Verilog
-- Waveform Viewer: EPAWave
+- Waveform Viewer: EPWave
