@@ -63,4 +63,4 @@ Time    State  In   Out  Change
 ## Tools Used
 - Language: SystemVerilog
 - Simulator: Icarus Verilog
-- Waveform Viewer: EPAWave
+- Waveform Viewer: EPWave
