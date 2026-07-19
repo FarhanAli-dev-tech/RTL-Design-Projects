@@ -5,7 +5,8 @@ Design an FSM-based PS/2 protocol receiver that samples a serial
 odd-parity bit and stop bit, and reports the decoded scan code with
 `data_ready`, `parity_error`, and `frame_error` flags.
 ## State Diagram
-<img width="525" height="380" alt="image" src="https://github.com/user-attachments/assets/a4f5aff6-6fba-4f91-bd83-e5493904c11b" />
+<img width="225" height="498" alt="image" src="https://github.com/user-attachments/assets/30eb29b4-0968-48f8-af17-895ffc6ed200" />
+
 
 
 | State | Meaning |
