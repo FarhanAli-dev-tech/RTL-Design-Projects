@@ -1,6 +1,6 @@
-# 8-bit Synchronous FIFO
+# 8-bit FIFO
 ## Problem Statement
-Design a synchronous FIFO (First-In-First-Out) memory buffer, 8 bits
+Design a FIFO (First-In-First-Out) memory buffer, 8 bits
 wide and 8 entries deep, supporting independent write and read
 requests on the same clock, with `full` and `empty` status flags and
 correct behavior when a read and write happen on the same cycle.
