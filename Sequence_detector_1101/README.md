@@ -80,4 +80,5 @@ Time    clk  rst  din  detected
 ## Tools Used
 - Language: SystemVerilog
 - Simulator: Icarus Verilog
-- Waveform Viewer: GTKWave (optional)
+- Waveform Viewer: EPAWave
+
