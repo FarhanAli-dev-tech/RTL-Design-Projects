@@ -10,6 +10,12 @@ that overlap is reused instead of restarting from scratch.
 
 ## State Diagram
 
+
+<img width="568" height="319" alt="image" src="https://github.com/user-attachments/assets/5f5a8a28-94b7-4c10-acae-8302df4f6dd8" />
+
+
+
+
 | State | Meaning (bits matched so far) |
 |---|---|
 | S0 | No match |
